@@ -12,6 +12,7 @@ public class FirstSample
    public static void main(String[] args)
    {
       int[] a = {2,3};
+      //cdcd
       System.out.println(Math.sqrt(0));
    }
 }
